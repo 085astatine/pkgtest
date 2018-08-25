@@ -8,4 +8,4 @@ setup(
     author='Astatine',
     author_email='astatine085@gmail.com',
     url='https://github.com/085astatine/pkgtest',
-    packages=['pkgtest'])
+    packages=['pkgtest', 'pkgtest.child'])
